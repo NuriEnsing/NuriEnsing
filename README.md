@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuriensing" alt="nuriensing" /></a> </p>
 
-- 🌱 I’m currently learning **React** and **Svelte**
+- 🌱 I’m currently learning **React** and **Astro**
+- Will learn **Qwik**
 
 - 📄 Know about my experiences [https://www.linkedin.com/nuriensing](https://www.linkedin.com/nuriensing)
 
