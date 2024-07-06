@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -------------------------
 
-As a developer with a passion for creating new things, I am constantly seeking out new challenges and opportunities to grow and learn. From building complex software applications to designing intuitive user interfaces, I am always looking for ways to push myself and improve my skills. You can learn more about my experience and background by checking out my LinkedIn profile at the following link: <a href="[https://www.linkedin.com/in/scetinguney](https://www.linkedin.com/in/nuri-ensing/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+As a developer with a passion for creating new things, I am constantly seeking out new challenges and opportunities to grow and learn. From building complex software applications to designing intuitive user interfaces, I am always looking for ways to push myself and improve my skills. You can learn more about my experience and background by checking out my LinkedIn profile at the following link: <a href="[https://www.linkedin.com/in/scetinguney](https://www.linkedin.com/in/nuri-ensing/)" target="_blank" rel="noreferrer"><img src="https://www.linkedin.com/in/nuri-ensing/" width="32" height="32" /></a>
 
 * 🌍  I'm based in Netherlands
 * ✉️    You can contact me via [LinkedIn](https://www.linkedin.com/in/nuri-ensing/)
-* 🧠  I'm learning React
+* 🧠  I'm learning C and VIM
+* 📝 Check out my [Medium Profile](https://medium.com/@ensing89)
 * 🤝  I'm open to collaborating on projects
 
 
@@ -29,5 +30,5 @@ As a developer with a passion for creating new things, I am constantly seeking o
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/NuriEnsing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/scetinguney](https://www.linkedin.com/in/nuri-ensing/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/NuriEnsing" target="_blank" rel="noreferrer"><img src="https://www.linkedin.com/in/nuri-ensing/" width="32" height="32" /></a></p>
 
