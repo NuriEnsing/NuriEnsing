@@ -8,9 +8,6 @@ As a developer with a passion for creating new things, I am constantly seeking o
 
 * 🌍  I'm based in Netherlands
 * ✉️    You can contact me via [LinkedIn](https://www.linkedin.com/in/nuri-ensing/)
-* 🧠  I'm learning C and VIM
-* 📝 Check out my [Medium Profile](https://medium.com/@ensing89)
-* 🤝  I'm open to collaborating on projects
 
 
 ### Skills
